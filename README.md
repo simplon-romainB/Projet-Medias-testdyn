@@ -1,3 +1,3 @@
 # Projet-Medias-testdyn
 
-pour visualiser les effets jquery
+effets dynamiques d'affichage de la page du projet de groupe simplon.
